@@ -12,6 +12,10 @@ Key functionalities include:
 The project emphasizes modular design, clean code, and scalability, providing a robust platform for users to explore real estate options effectively.
 
 
+Demo Video :
+
+https://github.com/user-attachments/assets/dd53455f-696e-4824-afe8-9c6305b4e44d
+
 
 
 
